@@ -1,12 +1,12 @@
 {
-	"name": "functional-programming",
-	"displayName": "Functional Purple",
+	"name": "yavorsky-theme",
+	"displayName": "Yavorsky",
 	"version": "1.2.0",
-	"description": "Functional Purple theme for VS Code",
+	"description": "Yavorsky theme for VS Code",
 	"icon": "logo.png",
 	"author": {
-		"name": "Josh Davies",
-		"url": "https://github.com/joshdavies14"
+		"name": "Mike Yavorsky",
+		"url": "https://github.com/mikeyavorsky"
 	},
 	"license": "CC0-1.0",
 	"repository": {
@@ -26,28 +26,16 @@
 	"contributes": {
 		"themes": [
 			{
-				"id": "functional-purple",
-				"label": "Functional Purple",
+				"id": "yavorsky-purple",
+				"label": "Yavorsky Purple",
 				"uiTheme": "vs-dark",
 				"path": "./themes/functional-programming.json"
-			},
-			{
-				"id": "functional-purple-darker",
-				"label": "Functional Purple (Darker)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/functional-programming-darker.json"
-			},
-			{
-				"id": "functional-purple-lighter",
-				"label": "Functional Purple (Lighter)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/functional-programming-lighter.json"
 			}
 		]
 	},
 	"__metadata": {
 		"id": "9b40a89d-4026-46da-9331-83ab3518f5ce",
-		"publisherDisplayName": "Josh Davies",
+		"publisherDisplayName": "Mike Yavorsky",
 		"publisherId": "a703578f-a1a1-4eb7-8c04-3b3a6ab7aa90"
 	}
 }
