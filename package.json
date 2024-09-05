@@ -11,12 +11,12 @@
 	"license": "CC0-1.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/joshdavies14/vsc-fp-theme"
+		"url": "https://github.com/mikeyavorsky/vscode-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/joshdavies14/vsc-fp-theme/issues"
+		"url": "https://github.com/mikeyavorsky/vscode-theme"
 	},
-	"publisher": "JoshDavies",
+	"publisher": "MikeYavorsky",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
